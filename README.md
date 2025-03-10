@@ -18,19 +18,19 @@ SortViz is a modern, interactive web application that visualizes popular sorting
 
 SortViz includes the following sorting algorithms:
 
-| Algorithm | Time Complexity | Space Complexity |
-|-----------|----------------|------------------|
-| Bubble Sort | O(n²) | O(1) |
-| Selection Sort | O(n²) | O(1) |
-| Insertion Sort | O(n²) | O(1) |
-| Merge Sort | O(n log n) | O(n) |
-| Quick Sort | O(n log n) - O(n²) | O(log n) |
-| Heap Sort | O(n log n) | O(1) |
-| Shell Sort | O(n log n) - O(n²) | O(1) |
-| Counting Sort | O(n + k) | O(n + k) |
-| Radix Sort | O(nk) | O(n + k) |
-| Bucket Sort | O(n + k) | O(n + k) |
-| Tim Sort | O(n log n) | O(n) |
+| Algorithm      | Time Complexity    | Space Complexity |
+| -------------- | ------------------ | ---------------- |
+| Bubble Sort    | O(n²)              | O(1)             |
+| Selection Sort | O(n²)              | O(1)             |
+| Insertion Sort | O(n²)              | O(1)             |
+| Merge Sort     | O(n log n)         | O(n)             |
+| Quick Sort     | O(n log n) - O(n²) | O(log n)         |
+| Heap Sort      | O(n log n)         | O(1)             |
+| Shell Sort     | O(n log n) - O(n²) | O(1)             |
+| Counting Sort  | O(n + k)           | O(n + k)         |
+| Radix Sort     | O(nk)              | O(n + k)         |
+| Bucket Sort    | O(n + k)           | O(n + k)         |
+| Tim Sort       | O(n log n)         | O(n)             |
 
 ## 🚀 Getting Started
 
@@ -41,11 +41,13 @@ SortViz includes the following sorting algorithms:
 ### Installation
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/JollyJolli/SortViz.git
    ```
 
 2. Navigate to the project directory:
+
    ```bash
    cd SortViz
    ```
@@ -89,4 +91,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by JollyJolli
